@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=dipesh2508&icon=1&color=9)](https://visitcount.itsvg.in)
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipesh_ranjan07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dipesh-ranjan/) 
@@ -12,6 +14,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=dipesh2508&icon=1&color=9)](https://visitcount.itsvg.in)
 
