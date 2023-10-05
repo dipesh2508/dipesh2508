@@ -1,8 +1,8 @@
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipesh_ranjan07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-ranjan/) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -50,7 +50,7 @@
 </div>
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=dipesh2508&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dipesh2508&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipesh2508&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
