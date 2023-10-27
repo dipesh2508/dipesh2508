@@ -2,6 +2,7 @@
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dipesh_ranjan07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dipesh-ranjan/) 
 
+
 [![](https://visitcount.itsvg.in/api?id=dipesh2508&icon=2&color=9)](https://visitcount.itsvg.in)
 
 ---
@@ -65,5 +66,5 @@
 ### 📛 Holopins
 [![An image of @dipesh2508's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dipesh2508)](https://holopin.io/@dipesh2508)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
